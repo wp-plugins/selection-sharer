@@ -1,13 +1,13 @@
 === Selection Sharer by Hans van Gent ===
 Contributors: jcvangent
-Tags: medium, Twitter, email, sharing, selection, content, plugin
+Tags: medium, Twitter, Facebook, email, sharing, selection, content, plugin
 Requires at least: 2.5
 Tested up to: 4.1
-Stable tag: 0.1
+Stable tag: 0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Medium like popover menu to share on Twitter or by email any text selected on the page.
+Medium like popover menu to share on Twitter, Facebook or by email any text selected on the page.
 
 == Description ==
 
@@ -36,6 +36,16 @@ Images are included inline in the CSS as SVG (perfect for Retina displays, loadi
 1. Example of the plugin in action both as pop-over (desktop) and pop-under (mobile devices)
 
 == Changelog ==
+
+= 0.3 =
+Now That's What I Call an Update!
+
+Just when you thought you knew the Selection Sharer Wordpress plugin, here comes a release that changes everything. Actually, the good stuff is the same now but there's more of it. Here's what's new:
+
+* Added Facebook support (This uses the Facebook share functionality. Facebook share functionality requires a Facebook App ID, be sure to include fb:app_id meta tag information otherwise the Facebook share button will not show)
+* Better performance! Not that I'm saying that it wasn't performing before. But it is definitely working faster now.
+
+Thanks a lot for the support, I got some more amazing things coming in 2015.
 
 = 0.1 =
 * First release
