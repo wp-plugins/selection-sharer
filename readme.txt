@@ -37,7 +37,7 @@ Images are included inline in the CSS as SVG (perfect for Retina displays, loadi
 
 == Changelog ==
 
-= 0.3 =
+= 0.2 =
 Now That's What I Call an Update!
 
 Just when you thought you knew the Selection Sharer Wordpress plugin, here comes a release that changes everything. Actually, the good stuff is the same now but there's more of it. Here's what's new:
