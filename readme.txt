@@ -3,7 +3,7 @@ Contributors: jcvangent
 Tags: medium, Twitter, Facebook, email, sharing, selection, content, plugin
 Requires at least: 2.5
 Tested up to: 4.1
-Stable tag: 0.2
+Stable tag: 0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -37,7 +37,7 @@ Images are included inline in the CSS as SVG (perfect for Retina displays, loadi
 
 == Changelog ==
 
-= 0.2 =
+= 0.3 =
 Now That's What I Call an Update!
 
 Just when you thought you knew the Selection Sharer Wordpress plugin, here comes a release that changes everything. Actually, the good stuff is the same now but there's more of it. Here's what's new:
