@@ -12,7 +12,7 @@ Medium like popover menu to share on Twitter, Facebook or by email any text sele
 == Description ==
 
 Selection Sharer makes it super easy for your readers to share your content and drive new visitors to your site. With Selection Sharer, any visitor on your website/blog can easily 
-highlight any part of your content and share it immediately on Twitter or via email. Ultimately, the more your readers share, the more new traffic your site will get. 
+highlight any part of your content and share it immediately on Twitter, Facebook or via email. Ultimately, the more your readers share, the more new traffic your site will get. 
 
 When a visitor highlights some text on your Wordpress website they will be presented by a Medium like popover menu to share their highlighted content. This plugin supports both desktop (with a pop-over) as well as mobile devices (with a pop-under). This plugin is made possible by the excellent work done by [@xdamman](https://github.com/xdamman/selection-sharer) and is based on his code.
 
