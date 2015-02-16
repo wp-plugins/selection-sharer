@@ -1,18 +1,18 @@
 === Selection Sharer by Hans van Gent ===
 Contributors: jcvangent
-Tags: medium, Twitter, Facebook, email, sharing, selection, content, plugin
+Tags: medium, Twitter, Facebook, LinkedIn, email, sharing, selection, content, plugin
 Requires at least: 2.5
 Tested up to: 4.1
-Stable tag: 0.2
+Stable tag: 0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Medium like popover menu to share on Twitter, Facebook or by email any text selected on the page.
+Medium like popover menu to share on Twitter, Facebook, LinkedIn or by email any text selected on the page.
 
 == Description ==
 
 Selection Sharer makes it super easy for your readers to share your content and drive new visitors to your site. With Selection Sharer, any visitor on your website/blog can easily 
-highlight any part of your content and share it immediately on Twitter, Facebook or via email. Ultimately, the more your readers share, the more new traffic your site will get. 
+highlight any part of your content and share it immediately on Twitter, Facebook, LinkedIn or via email. Ultimately, the more your readers share, the more new traffic your site will get. 
 
 When a visitor highlights some text on your Wordpress website they will be presented by a Medium like popover menu to share their highlighted content. This plugin supports both desktop (with a pop-over) as well as mobile devices (with a pop-under). This plugin is made possible by the excellent work done by [@xdamman](https://github.com/xdamman/selection-sharer) and is based on his code.
 
@@ -36,6 +36,9 @@ Images are included inline in the CSS as SVG (perfect for Retina displays, loadi
 1. Example of the plugin in action both as pop-over (desktop) and pop-under (mobile devices)
 
 == Changelog ==
+
+= 0.3 =
+Been popping out updates like there is no tomorrow :-) This one features LinkedIn support, so you can easily have your visitors share your content towards LinkedIn!
 
 = 0.2 =
 Now That's What I Call an Update!

@@ -2,8 +2,8 @@
 /*
 Plugin Name: Selection Sharer
 Plugin URI: http://wordpress.org/extend/plugins/selection-sharer/
-Description: Medium like popover menu to share on Twitter, Facebook or by email any text selected on the page, based on the code of @xdamman (https://github.com/xdamman/selection-sharer)
-Version: 0.2
+Description: Medium like popover menu to share on Twitter, Facebook, LinkedIn or by email any text selected on the page, based on the code of @xdamman (https://github.com/xdamman/selection-sharer)
+Version: 0.3
 Author: J.C. van Gent
 Author URI: http://jcvangent.com/
 License: GPLv2
